@@ -109,6 +109,19 @@
 <externallink>https://raw.githubusercontent.com/pelisnet2018/Imperio/master/cocina%2Cxml.xml</externallink>
 </channel>
 </channels>
+
+
+
+<channels>
+ 
+<channel>
+<name>[COLOR white][COLOR  yellow]•  [/COLOR] Enlaces[/COLOR]</name>
+<thumbnail>https://image.flaticon.com/icons/png/512/410/410375.png</thumbnail>
+<fanart>https://st2.depositphotos.com/6628792/9629/v/950/depositphotos_96299852-stock-illustration-kitchen-chef-icon.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pelisnet2018/Imperio/master/cocina%2Cxml.xml</externallink>
+</channel>
+</channels>
  
  
 

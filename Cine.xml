@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <channel>
-<name>          <<<<<<<<<peliculas>>>>>>>></name>
-<thumbnail>http://1.bp.blogspot.com/-bDos023a_yE/VpUfT7Jqd6I/AAAAAAAAE-8/pfCuzeOSIBE/s1600/4.jpg</thumbnail>
-<fanart>http://cdn.wonderfulengineering.com/wp-content/uploads/2014/10/wallpaper-photos-4.jpg</fanart>
+<name><<<<<<<<<Acción>>>>>>>></name>
+<thumbnail>https://es.seaicons.com/wp-content/uploads/2015/06/Action-icon1.png</thumbnail>
+<fanart>https://image.freepik.com/icones-gratis/pessoa-luta-soco_318-29637.jpg</fanart>
 <items>
 
 
-<item><title>[COLOR=orange] <<[/COLOR][COLOR=orange] peliculas[/COLOR][COLOR=black]>>[/COLOR]</title>  
+<item><title>[COLOR=orange] <<[/COLOR][COLOR=orange] Acción[/COLOR][COLOR=black]>>[/COLOR]</title>  
 <link>http://about.me/adryan</link></item>
 
 
@@ -19,21 +19,21 @@
 <title>[COLOR white][COLOR blue]• [/COLOR] El Rascacielos Español HDRip</title>
 <fanart>https://i.ytimg.com/vi/r8KlxpjXZeI/maxresdefault.jpg</fanart>
 <thumbnail></thumbnail>
-<link>https://r4---sn-4g5e6nes.c.drive.google.com/videoplayback?id=93820ba0a079b27b&itag=18&source=webdrive&requiressl=yes&pl=22&ttl=transient&ei=cvrgW8L4FNCy0AXv8qb4Cg&susc=dr&driveid=1FWXeSLDfZWRzFjIjd5sVdwut2Ue9VL7n&app=texmex&mime=video/mp4&dur=6144.232&lmt=1541371995054383&ip=87.220.72.133&ipbits=0&expire=1541485234&cp=QVNJU0VfVFJRRVhOOmZpdEJUeG9LelNS&sparams=app,cp,driveid,dur,ei,expire,id,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,requiressl,source,susc,ttl&signature=09FAC7AD77723A8F8F17DE4485FCBFA100435EFF.0DB9EAEDF25F77D2D7E85ADB0E386BE09D958C71&key=cms1&cpn=uFEi2oA8LzeX-G3c&c=WEB_EMBEDDED_PLAYER&cver=20181101&redirect_counter=1&cm2rm=sn-h5qz67z&fexp=23763603&req_id=6e475562ef2fa3ee&cms_redirect=yes&mm=34&mn=sn-4g5e6nes&ms=ltu&mt=1541469871&mv=u</link>
+<link>rtmp://37.59.32.75:19350/vod//mp4:01/00820/3v7pl3zwl70m_n?h=iuohpzrpkqikkfn2maxp6zyjmoig33ngw2zxs55b75hcixnlg6wmzaob5a</link>
 </item>
 
 <item>
-<title>[COLOR white][COLOR blue]• [/COLOR] Fox</title>
-<fanart></fanart>
-<thumbnail>https://drive.google.com/file/d/1FWXeSLDfZWRzFjIjd5sVdwut2Ue9VL7n/view?ts=5be0fa5b.mp4</thumbnail>
-<link>http://pastebin.com</link>
-</item>
-
-<item>
-<title>[COLOR white][COLOR blue]• [/COLOR] Fox</title>
+<title>[COLOR white][COLOR blue]• [/COLOR] rasca</title>
 <fanart></fanart>
 <thumbnail></thumbnail>
-<link>http://pastebin.com</link>
+<link>https://drive.google.com/file/d/1FWXeSLDfZWRzFjIjd5sVdwut2Ue9VL7n/view?ts=5be0fa5b.mp4</link>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] harry</title>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<link>https://streamango.com/embed/ltmffestmdlmkdsa/Harry_Potter_y_la_c_mara_secreta_2002_Castellano_Pep_mp4.m3u8</link>
 </item>
 
 <item>
