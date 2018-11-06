@@ -4,7 +4,40 @@
 <channels>
  
 <channel>
-<name>[COLOR orange][COLOR  orange]•   [/COLOR] ACCIÓN[/COLOR]</name>
+<name>[COLOR orange][COLOR  orange]•   [/COLOR] ACCIÓN [/COLOR]</name>
+<thumbnail>https://image.flaticon.com/icons/png/512/37/37895.png</thumbnail>
+<fanart>https://previews.123rf.com/images/jemastock/jemastock1610/jemastock161003770/63998264-rollo-de-pel%C3%ADcula-y-palomitas-de-ma%C3%ADz-icono-pel%C3%ADcula-de-cine-de-pel%C3%ADculas-de-v%C3%ADdeo-y-el-tema-de-entretenimient.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pelisnet2018/Imperio/master/Cine.xml</externallink>
+</channel>
+</channels>
+
+<channels>
+ 
+<channel>
+<name>[COLOR red][COLOR  red]•   [/COLOR] COMEDIA [/COLOR]</name>
+<thumbnail>https://image.flaticon.com/icons/png/512/37/37895.png</thumbnail>
+<fanart>https://previews.123rf.com/images/jemastock/jemastock1610/jemastock161003770/63998264-rollo-de-pel%C3%ADcula-y-palomitas-de-ma%C3%ADz-icono-pel%C3%ADcula-de-cine-de-pel%C3%ADculas-de-v%C3%ADdeo-y-el-tema-de-entretenimient.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pelisnet2018/Imperio/master/Cine.xml</externallink>
+</channel>
+</channels>
+
+<channels>
+ 
+<channel>
+<name>[COLOR orange][COLOR  orange]•   [/COLOR] CIENCIA FICCION [/COLOR]</name>
+<thumbnail>https://image.flaticon.com/icons/png/512/37/37895.png</thumbnail>
+<fanart>https://previews.123rf.com/images/jemastock/jemastock1610/jemastock161003770/63998264-rollo-de-pel%C3%ADcula-y-palomitas-de-ma%C3%ADz-icono-pel%C3%ADcula-de-cine-de-pel%C3%ADculas-de-v%C3%ADdeo-y-el-tema-de-entretenimient.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pelisnet2018/Imperio/master/Cine.xml</externallink>
+</channel>
+</channels>
+
+<channels>
+ 
+<channel>
+<name>[COLOR orange][COLOR  orange]•   [/COLOR] DRAMA [/COLOR]</name>
 <thumbnail>https://image.flaticon.com/icons/png/512/37/37895.png</thumbnail>
 <fanart>https://previews.123rf.com/images/jemastock/jemastock1610/jemastock161003770/63998264-rollo-de-pel%C3%ADcula-y-palomitas-de-ma%C3%ADz-icono-pel%C3%ADcula-de-cine-de-pel%C3%ADculas-de-v%C3%ADdeo-y-el-tema-de-entretenimient.jpg</fanart>
 <link>http://ignoreme</link>
